@@ -19,7 +19,7 @@ public class Actividad2SistemaGestion {
         
         int opcion;
         do{
-            // Desarrolado por: Luis Fernando Martínez Niño, C.c: 1023025659. 
+            // Desarrolado por: Luis Fernando Martínez Niño, C.c: 1023025659. Version1.0
             System.out.println("=================");
             System.out.println("SISTEMA DE GESTION DE BIBLIOTECA");
             System.out.println("=================");    
